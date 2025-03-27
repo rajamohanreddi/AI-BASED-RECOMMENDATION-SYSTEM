@@ -34,3 +34,7 @@ E-commerce: Suggesting products (e.g., Amazon's “Customers who bought this als
 Streaming Platforms: Recommending movies, shows, or music (e.g., Netflix or Spotify).
 
 E-learning: Proposing courses or materials based on a learner's progress.
+
+#OUTPUT
+
+![Image](https://github.com/user-attachments/assets/9b3231e4-303e-4629-9904-96c65431ebc4)
